@@ -46,5 +46,4 @@ notes/       Study notes and references
 - [x] Install Ubuntu 24.04 LTS
 - [x] Install the base Linux and Python toolchain
 - [x] Configure Git and GitHub SSH authentication
-- [ ] Begin Linux fundamentals labs
-
+- [x] Begin Linux fundamentals labs
